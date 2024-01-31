@@ -1,6 +1,6 @@
 import requests
 
-# Delving into the free APIs found at "https://github.com/public-apis/public-apis?tab=readme-ov-file#entertainment"
+# Delving into the free APIs found at "https://github.com/public-apis/public-apis"
 # ------------------------------------------------------------------------------------------------- #
 
 # Breaking bad API - gets 1 quote and author return json -
